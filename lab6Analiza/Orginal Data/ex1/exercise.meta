@@ -1,0 +1,7 @@
+'exercise.csv'
+zawiera 3 kolumny:
+	- y
+	- x1
+	- x2
+Pierwsze 40 rzędów zawiera uzupełnione wszystkie koolumny.
+Ostatnie 20 rzędów - brak danych(NA) dla kolumny y.
