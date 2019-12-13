@@ -1,4 +1,0 @@
-File contain data in 3 colomn.
-1 is index,
-2 is number of insects after spray use,
-3 is name of used spray

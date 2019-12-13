@@ -2,11 +2,5 @@ weather.txt
 format:
 nazwa_stacji_rok_miesiąc_zmienna Pomiary_z_kolejnych_dni_lub_-9999_gdy_nie_ma_dnia_w_miesiącu(1-31) {'I', ' ', 'S'} 
 MX000017004(\d\d\d\d)(\d\d)(\w\w\w\w) D1  I  D2 I D3 ... D31 
-weather_formated.csv
-format:
-nazwa: nazwa_stacji.csv
-plik csv z nagłówkiem
-rok-miesiąc, zmmienna, kolejne_pomiary,... 
 
-
-# jednostki nieznane
+# jednostki wielkośi mierzonych nieznane

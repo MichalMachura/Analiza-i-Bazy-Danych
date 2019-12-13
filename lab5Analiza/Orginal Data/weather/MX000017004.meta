@@ -1,0 +1,13 @@
+weather_formated.csv
+
+zawiera sformatowany plik weather.txt. usunięte zostaly nie standardowe znaki rozdzielające kolumny, z nazwy kolejnego wpisu zatała 
+wyekstrahowane daty oraz nazwa stacji
+
+nazwa pliku: nazwa_stacji.csv
+plik csv z nagłówkiem
+
+format:
+rok-miesiąc, zmmienna, kolejne_pomiary,... 
+wartości -9999 zostały usunięte
+
+# jednostki wielkośi mierzonych nieznanelkośi mierzonych nieznane
